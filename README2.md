@@ -1,2 +1,0 @@
-# boothedog
-assignment 7
